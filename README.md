@@ -26,4 +26,5 @@ PATCH /books/<isbn>  200
 DELETE /books/<isbn>  204
 ```
 
-
+# Links
+- https://pyvideo.org/pycon-india-2015/rest-apis-what-why-and-how-pycon-india-2015.html
